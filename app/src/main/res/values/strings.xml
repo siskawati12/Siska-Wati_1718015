@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Profile_1718015</string>
+    <string name="followers">Followers</string>
+    <string name="save">Save</string>
+    <string name="gallery">Gallery</string>
 </resources>

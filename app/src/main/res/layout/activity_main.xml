@@ -10,7 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="300dp"
@@ -62,7 +61,7 @@
                 android:id="@+id/tv_like"
                 android:layout_width="320dp"
                 android:layout_height="wrap_content"
-                android:text="Followers"
+                android:text="@string/followers"
                android:drawableLeft="@drawable/ic_group_black_24dp"
                 android:textStyle="bold"
                 android:textSize="25dp"
@@ -97,7 +96,7 @@
                 android:id="@+id/tv_save"
                 android:layout_width="320dp"
                 android:layout_height="wrap_content"
-                android:text="Save"
+                android:text="@string/save"
                 android:textSize="25dp"
                 android:drawableLeft="@drawable/ic_bookmark_black_24dp"
                 android:textStyle="bold"
@@ -131,7 +130,7 @@
                 android:id="@+id/tv_photo"
                 android:layout_width="320dp"
                 android:layout_height="wrap_content"
-                android:text="Galery"
+                android:text="@string/gallery"
                 android:textSize="25dp"
                 android:drawableLeft="@drawable/ic_collections_black_24dp"
                 android:textStyle="bold"
